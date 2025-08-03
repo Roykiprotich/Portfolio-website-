@@ -1,12 +1,12 @@
 # 💼 Roy Kiprotich Portfolio Website
 
-This is a personal portfolio website built using **HTML** and CSS  to showcase my skills, projects, educational background, and interests in technology.
+This is a personal portfolio website built using **HTML** and CSS Bootstrap  to showcase my skills, projects, educational background, and interests in technology.
 
 ---
 
 ## 🚀 Features
 
-- **Responsive Design** powered by Bootstrap 5
+- **Responsive Design** powered by CSS Bootstrap 5
 - **About Me** section with a personal introduction
 - **Programming Languages** list of proficiencies
 - **Education** details and downloadable CV
@@ -20,7 +20,7 @@ This is a personal portfolio website built using **HTML** and CSS  to showcase m
 ## 🛠 Tech Stack
 
 - HTML5
-- CSS
+- CSS Bootstrap 5
 
 ---
 
